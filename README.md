@@ -127,11 +127,3 @@ Example response:
 ## What I Learned
 
 This project helped me practice the end-to-end data science workflow: data cleaning, exploratory data analysis, preprocessing, model training, model evaluation, and building simple deployment interfaces for demos.
-
-## Future Improvements
-
-- Add more model evaluation metrics such as ROC-AUC and confusion matrix.
-- Track experiments with MLflow.
-- Add Docker support.
-- Deploy the app to a cloud platform.
-- Improve the user interface with batch prediction support.
