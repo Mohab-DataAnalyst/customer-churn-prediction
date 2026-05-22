@@ -6,6 +6,12 @@ This project predicts whether a customer is likely to churn based on customer pr
 
 Customer churn is a common business problem where companies want to identify customers who may leave so they can take proactive retention actions. In this project, I built a machine learning pipeline that preprocesses customer data and predicts churn as `Yes` or `No`.
 
+## Snapshots
+<p align="center">
+  <img src="https://github.com/Mohab-DataAnalyst/customer-churn-prediction/blob/main/churn_streamlit.PNG" width="800" height="500"/>
+  <img src="https://github.com/Mohab-DataAnalyst/customer-churn-prediction/blob/main/churn_api.PNG" width="800" height="500"/>
+</p>
+
 ## Dataset
 
 The dataset contains customer-level information such as:
