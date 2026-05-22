@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-This project predicts whether a customer is likely to churn based on customer profile, contract, service, tenure, and billing information. It includes exploratory analysis, model training, and simple deployment demos using FastAPI and Streamlit.
+This project predicts whether a customer is likely to churn based on customer profile, contract, service, tenure, and billing information. It includes exploratory analysis, model training (logistic regression, SVM, random forest, XGBoost) through pipelines, and deployment using FastAPI and Streamlit.
 
 ## Project Overview
 
